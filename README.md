@@ -1,2 +1,3 @@
-# HelloFromOtherSide
-weihong dean list master teacher
+# A Mock Repository for Testing
+
+Nothing to see here
