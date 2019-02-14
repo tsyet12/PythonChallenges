@@ -7,4 +7,4 @@ Some useful challenges and template codes for python <br>
 
 Working towards rank 1. <br>
 
-![Screenshot](Images/Python.PNG)
+![Screenshot](Images/python.PNG)
