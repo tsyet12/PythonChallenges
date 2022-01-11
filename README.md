@@ -5,6 +5,6 @@ Author: Sin Yong Teng <br>
 
 Some useful challenges and template codes for python <br>
 
-Working towards rank 1. <br>
+ <br>
 
 ![Screenshot](Images/python.PNG)
